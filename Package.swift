@@ -19,13 +19,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FluxStream",
-            url: "https://github.com/artembilyy/FluxStream/releases/download/0.1.0/FluxStream.xcframework.zip",
-            checksum: "901f593818c6796054d46d9a3639ba92badc2b2e0eed13882740424473a79997"
+            url: "https://github.com/artembilyy/FluxStream/releases/download/0.1.1/FluxStream.xcframework.zip",
+            checksum: "dc1985ff05dcd053ec922acf00804e142b0026dbf135c2e0377f12a6ce7620cf"
         ),
         .binaryTarget(
             name: "FluxStreamUI",
-            url: "https://github.com/artembilyy/FluxStream/releases/download/0.1.0/FluxStreamUI.xcframework.zip",
-            checksum: "2b197ec5fa491c83670fede58cc6e8743de2eecdfbd879d29b6dd55c7dc4fdd6"
+            url: "https://github.com/artembilyy/FluxStream/releases/download/0.1.1/FluxStreamUI.xcframework.zip",
+            checksum: "e8a6b32730bf361ea52207e8d59b014d84e05a4bb821278908fc582f1c2c17ed"
         ),
     ]
 )
